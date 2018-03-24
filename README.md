@@ -1,4 +1,1 @@
-# E-mail-template
-Ready task for Mate Academy
-
-Simple e-mail template, homework of Mate Academy
+[E-mail preview](https://vas95.github.io/E-mail-template/)
